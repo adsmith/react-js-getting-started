@@ -1,4 +1,4 @@
-// bit.ly/psreact17
+// https://bit.ly/psreact17
 var possibleCombinationSum = function(arr, n) {
   if (arr.indexOf(n) >= 0) { return true; }
   if (arr[0] > n) { return false; }
